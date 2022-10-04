@@ -24,6 +24,7 @@ I'm Szczynk, also called Bagus, a recent graduate of bachelor of physics degree 
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 <!--![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)-->
 <!--![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)-->
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)-->
