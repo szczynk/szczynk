@@ -35,7 +35,7 @@ I'm Szczynk, also called Bagus, a recent graduate of bachelor of physics degree 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=szczynk&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Szczynk's GitHub stats](https://github-readme-stats.vercel.app/api?username=szczynk&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Szczynk's GitHub stats](https://github-readme-stats.vercel.app/api?username=szczynk&show_icons=true&locale=en&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
 ![Szczynk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=szczynk&show_icons=true&locale=en&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=szczynk.szczynk&format=true)
