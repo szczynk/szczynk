@@ -1,6 +1,8 @@
 ## Hi! 👋
 
-I'm Szczynk, also called Bagus, a recent graduate of bachelor of physics degree specialized in material computational physics from State University of Jakarta. I’m currently working on undergraduate thesis about The Impact of Adjusted Electric Field on The Electrical and Magnetic Properties of NiBr2 Monolayer with Density Functional Theory. Wish me pass and publish this year. Interested on Web Development and DevOps. I’m currently learning scalable web service with golang. I'm rarely write anything but feel free check my blog at <https://szczynk.github.io/blog/>. Feel free to connect with me here:
+Hi, I'm Bagus, a recent graduate of bachelor of physics degree specialized in material computational physics from the State University of Jakarta who is passionate about backend development and DevOps. Now I'm looking for opportunities and challenges to improve my skills and interests. 
+
+I’m currently learning scalable web service with Go. I'm rarely write anything but feel free check my blog at https://szczynk.github.io/blog/. Feel free to connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/-szczynk-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/szczynk)](https://twitter.com/szczynk)
 [![Linkedin Badge](https://img.shields.io/badge/-bagusnuryasin-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bagusnuryasin/)](https://www.linkedin.com/in/bagusnuryasin/)
